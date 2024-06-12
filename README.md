@@ -19,7 +19,7 @@ Our goal is to create an education courses website that addresses the challenges
 
 # Url link:-
 
-1. Project Demo Url : shaikhnehal.github.io/BGIEducation/
+1. Project Demo Url :  https://shaikhnehal.github.io/BGIEducation/
 
 2. Project Demo Video Url : https://youtu.be/VoUlxOGgjbk?si=Wb62I6-DMHy4Hloy
 
