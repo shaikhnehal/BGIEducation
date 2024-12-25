@@ -12,10 +12,6 @@ Our goal is to create an education courses website that addresses the challenges
 
 # Team Members
 1. Fazle Rab - https://github.com/shaikhnehal
-2. Suleman Siddiqui - https://github.com/khalnayak0123
-3. Ajay Sahu - https://github.com/ajaysahu077/BGIEducation
-4. Jayhind Pal - https://github.com/paljayhind2005
-
 
 # Url link:-
 
@@ -95,20 +91,3 @@ Our goal is to create an education courses website that addresses the challenges
 4. Virtual Network
 5. Azure Resource Group 
 
-
-# Team contribution - 
-
-1. Suleman Siddiqui - works on HTML and Problem statment. 
-2. Ajay Sahu - works on CSS and Business idea of website.
-3. Jayhind Pal - works on JavaScript. 
-4. Fazle Rab - works on Azure sevices
-
-
-# Disclaimer :
-This Project is only for Educational purposes , and should not be used for any Real-World Application.
-
-# Contact Us :
-1. Fazle Rab - fazlerab082@gmail.com
-2. Suleman Siddiqui - 0112it221035@gmail.com
-3. Ajay Sahu -  ajaysahu69980@gmail.com
-4. Jayhind Pal - 0112it221029@gmail.com
